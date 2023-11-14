@@ -1,28 +1,4 @@
 /* app.component.css */
-.filter-container {
-    display: flex;
-    align-items: center;
-    margin-bottom: 20px;
-  }
-  
-  .filter-container label {
-    margin-right: 10px;
-  }
-  
-  .filter-container input[type="radio"] {
-    margin-right: 5px;
-  }
-  
-  .filter-container input[type="radio"]:checked + label {
-    font-weight: bold;
-    color: #007bff;
-  }
-  
-  .filter-container input[type="radio"] + label {
-    cursor: pointer;
-  }
-
-  /* app.component.css */
 .input-container {
     display: flex;
     justify-content: center;
@@ -54,5 +30,4 @@
   .input-container button:hover {
     background-color: #0056b3;
   }
-  
   
